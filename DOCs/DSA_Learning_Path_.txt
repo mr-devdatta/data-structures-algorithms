@@ -1,0 +1,110 @@
+🛣️ DSA Learning Path (Structured)
+Phase 1: Foundations (2–3 weeks)
+	Topics	
+		Time & Space Complexity
+		Arrays
+		Strings
+		Hashing (dict, set)
+		Two Pointers
+		Sliding Window
+	Resources
+		📘 Best Concept Resource : NeetCode Roadmap (Free): 👉 https://neetcode.io/roadmap
+		🎥 Video (Easy + Clear) :  NeetCode YouTube Abdul Bari (for Big-O clarity)
+	🧠 Practice 	
+		LeetCode Easy → Medium
+	
+Phase 2: Core Data Structures (3–4 weeks)
+	Topics
+		Stack & Queue
+		Linked List
+		Recursion
+		Binary Search
+		Sorting algorithms (conceptual)
+	Must-Know Problems
+		Valid Parentheses
+		Reverse Linked List
+		Detect Cycle (Floyd’s algo)
+		Binary Search variants
+	📘Resources	
+		LeetCode Explore Cards
+		NeetCode “Core DS”
+Phase 3: Trees & Graphs (4–5 weeks)
+	Topics
+		Binary Tree
+		BST
+		Tree Traversals (DFS, BFS)
+		Graphs (Adjacency List)
+		BFS / DFS
+		Topological Sort
+		Shortest Path (Basics)
+	🎥 Resources	
+		NeetCode Trees & Graphs Playlist
+		Striver’s Tree Series (very interview-oriented)
+	🧠 Practice
+		Level Order Traversal
+		Diameter of Tree
+		Lowest Common Ancestor
+		Number of Islands
+	
+Phase 4: Advanced Patterns (4–5 weeks)
+	Topics
+		Dynamic Programming
+		Backtracking
+		Greedy
+		Heaps / Priority Queue
+		Tries
+		Union Find
+	DP Must-Know Patterns
+		0/1 Knapsack
+		LIS
+		Subset / Partition
+		Matrix DP
+	📘 Resources	
+		NeetCode DP Playlist (gold standard)
+		Striver DP Sheet (selectively)
+		
+Phase 5: Interview Mastery (2–3 weeks)
+	Focus
+		Explain approach clearly
+		Dry run examples
+		Edge cases
+		Optimization
+	Mock Interviews
+		Pramp
+		InterviewBit
+		LeetCode Mock
+		
+	--------------------------------------------------	
+🧠 Best Platforms (Use 1–2 only)
+	⭐ Primary
+		LeetCode (Main)
+		NeetCode (Structured)
+	Optional
+		CodeStudio (Striver Sheet)
+		GeeksForGeeks (Concept reference only)
+	❌ Avoid:
+		Random YouTube problem hopping
+		Competitive programming initially
+		
+🗓️ Daily Practice Plan (Busy Professional)
+	⏱️ 1.5 – 2 hours/day
+	Daily Structure
+		15 min → Concept revision
+		45 min → 1–2 problems
+		20 min → Understand optimal solution
+		10 min → Write explanation in your words
+	📌 Rule:
+		If stuck > 30 min → see hint, not full solution
+
+🧩 Problem-Solving Pattern Thinking (VERY IMPORTANT)
+	📌 Think in patterns, not problems:
+		Pattern	Examples
+		Sliding Window	Max Subarray
+		Two Pointer	3 Sum
+		Hashing	Two Sum
+		BFS/DFS	Islands
+		DP Climbing Stairs
+		Greedy	Activity Selection
+
+
+	
