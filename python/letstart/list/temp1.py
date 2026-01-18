@@ -1,0 +1,9 @@
+
+
+a = [1, 2, 3, 4, 5]
+b = a.copy()
+
+
+print(id(a))
+print(id(b))
+
