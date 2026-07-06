@@ -1,6 +1,6 @@
 fileName = ''' 
 
-Move All Zeroes to End
+Group rotations strings of each other
 
 
 '''
